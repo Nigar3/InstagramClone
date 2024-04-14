@@ -115,7 +115,7 @@ class FeedActivity : AppCompatActivity() {
             startActivity(intent)
         }else if (item.itemId== R.id.sign_out){
             auth.signOut()
-            val intent=Intent(applicationContext, MainActivity::class.java)
+            val intent=Intent(applicationContext , MainActivity::class.java)
             startActivity(intent)
             finish()
 
