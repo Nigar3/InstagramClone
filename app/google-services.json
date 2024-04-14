@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411287214530",
+    "project_id": "kotlininstagramclone-25a30",
+    "storage_bucket": "kotlininstagramclone-25a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411287214530:android:d1e7c3dc2486e1dfdfde5b",
+        "android_client_info": {
+          "package_name": "com.nigarmikayilova.instagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnIa4nkOo6lcXpVxAKTwlu56cFJQWmGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
